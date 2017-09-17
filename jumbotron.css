@@ -3,3 +3,9 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+.btn-default {
+    color: #563d7c;
+    background-color: transparent;
+    border-color: #563d7c;
+}
